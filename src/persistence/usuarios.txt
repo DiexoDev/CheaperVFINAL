@@ -1,0 +1,4 @@
+diego|diego@gmail.com|diego11|18|Masculino|124214124
+aaa|aaa@gmail.com|adsfasdf|18|Femenino|124214124
+hhhhhh|hhh@gmail.com|2424|18|Femenino|1234
+Usuario2|user@gmail.com|user|18|Masculino|35145646

@@ -1,0 +1,18 @@
+67|producto1|123.0|CAMISETAS|src/view/images/productos/Superstar.jpg
+78|producto2|123.0|CAMISETAS|C:\Users\RYZEN\Documents\UNIVERSIDAD\Logo comfenalco.jpg
+68|producto4|123.0|CAMISETAS|src/view/images/productos/Superstar.jpg
+1|Camiseta Básica|19.99|CAMISETAS|src/view/images/productos/camiseta.png
+2|Camisa de Vestir|29.99|CAMISAS|src/view/images/productos/gucci.png
+3|Zapatos de Cuero|49.99|ZAPATOS|src/view/images/productos/Tenis_Bad_Bunny.png
+4|Blusa Floral|24.99|BLUSAS|src/view/images/productos/zara.png
+5|Falda Plisada|34.99|FALDAS|src/view/images/productos/sudadera_mujer.png
+6|Tenis Deportivos|59.99|TENIS|src/view/images/productos/dolce.png
+7|Camiseta Estampada|21.99|CAMISETAS|src/view/images/productos/camiseta.png
+8|Camisa Casual|27.99|CAMISAS|src/view/images/productos/chaqueta.png
+9|Zapatos Deportivos|39.99|ZAPATOS|src/view/images/productos/Superstar.jpg
+10|Blusa de Encaje|26.99|BLUSAS|src/view/images/productos/sudadera_mujer.png
+11|Falda Larga|31.99|FALDAS|src/view/images/productos/licra.png
+12|Tenis Urbanos|55.99|TENIS|src/view/images/productos/dolce.png
+13|Camiseta de Rayas|22.99|CAMISETAS|src/view/images/productos/zara.png
+14|Camisa Formal|35.99|CAMISAS|src/view/images/productos/gucci.png
+15|Zapatos Elegantes|69.99|ZAPATOS|src/view/images/productos/dolce.png
