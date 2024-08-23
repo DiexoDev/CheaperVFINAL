@@ -11,12 +11,9 @@ public class Ejecutar {
         } catch (Exception e) {
             e.printStackTrace();
         }
-//        LoginGUI login = new LoginGUI();
-        //login.setVisible(true);
-//        AdminGUI admin = new AdminGUI();
-//        admin.setVisible(true);
-        MenuCompras menu = new MenuCompras();
-        menu.setVisible(true);
+        LoginGUI login = new LoginGUI();
+        login.setVisible(true);
+
     }
 
 }
